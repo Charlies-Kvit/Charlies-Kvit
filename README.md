@@ -7,3 +7,6 @@
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-bage&logo=gmail" alt="Gmail"
   </a>
 </div>
+### About me
+  -I'm currently learning **Flask**
+  -I speak Russian
