@@ -1,11 +1,7 @@
-- 👋 Привет, я @Charlies-Kvit!
-- 👀 Я люблю программирование.
-- 🌱 Я изучаю Python.
-<!--- 
-💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... ---->
-
-<!---
-Charlies-Kvit/Charlies-Kvit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="header" align="center">
+  <h1>Hi there, I', Charlies</h1>
+  <h3>I'm Python Developer</h3>
+</div>
+<a href="theivangao@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-bage&logo=gmail&logoColor=red" alt="Gmail"
+</a>
